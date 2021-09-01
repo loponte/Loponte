@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Lucas Feijó 👋
 
-- 🖥 Atualmente eu trabalho com Design Grafico.
+- 🖥 Atualmente trabalho com Design Grafico.
 - 🎈 Sonho em me tornar desenvolvedor front-end.
 - 😁 Sou Dono da empresa TheHappy Design.
 - 🏳‍🌈 Pronomes: ele e ela.
