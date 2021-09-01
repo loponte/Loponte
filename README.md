@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/loponte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loponte&layout=compact&langs_count=7&theme=radical"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loponte&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@
   <img align="center" alt="Lop-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lop-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lop-GIF" height="150" width="150" src="https://cdn.discordapp.com/attachments/852996930740682782/882416270954364998/Lop_Gif.gif">
+  <img align="right" alt="Lop-GIF" height="130" width="150" src="https://cdn.discordapp.com/attachments/852996930740682782/882416270954364998/Lop_Gif.gif">
 </div>
   
   ##
