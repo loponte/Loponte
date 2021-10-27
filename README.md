@@ -1,9 +1,9 @@
 ## Olá!! Eu sou o Lucas Feijó 👋
 
 - 🖥 Atualmente trabalho com Design Grafico.
-- 🎈 Sonho em me tornar um desenvolvedor front-end.
-- 😁 Sou Dono da empresa TheHappy Design.
-- 🏳‍🌈 Pronomes e Sexualidade: ele e ela | não binário.
+- 🎈 Sonho em me tornar um *desenvolvedor front-end*.
+- 😁 Sou Dono da empresa *TheHappy Design*.
+- 🏳‍🌈 Pronomes e Sexualidade: *ele e ela | não binário*.
 
  <div>
   <a href="https://github.com/loponte">
