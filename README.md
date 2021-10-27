@@ -3,7 +3,7 @@
 - 🖥 Atualmente trabalho com Design Grafico.
 - 🎈 Sonho em me tornar um desenvolvedor front-end.
 - 😁 Sou Dono da empresa TheHappy Design.
-- 🏳‍🌈 Pronomes: ele e ela.
+- 🏳‍🌈 Pronomes e Sexualidade: ele e ela | não binário.
 
  <div>
   <a href="https://github.com/loponte">
