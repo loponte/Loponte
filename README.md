@@ -4,6 +4,7 @@
 - 🎈 Sonho em me tornar um *desenvolvedor front-end*.
 - 😁 Sou Dono da empresa *TheHappy Design*.
 - 🏳‍🌈 Pronomes e Sexualidade: *ele e ela | não binário*.
+- ❣️ Todas as minhas redes sociais estão no meu Beacons, só [clicar aqui](https://beacons.ai/loponte/)
 
 >![Imagem pixel](https://i.pinimg.com/564x/1a/d2/61/1ad261698d2f70aafc9488b8b396bcb9.jpg)
 
@@ -18,23 +19,14 @@
   <img align="center" alt="Lop-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
   <br>
-  <br>
-<div> 
-  <a href="https://www.linkedin.com/in/loponte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/lucasloponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/srloponte" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/PuV5MrKGWq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasfeijo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   <br>
   
  <div>
   <a href="https://github.com/loponte">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=loponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loponte&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=loponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loponte&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
   ![Snake animation](https://github.com/loponte/loponte/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
