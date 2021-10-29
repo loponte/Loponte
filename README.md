@@ -17,7 +17,7 @@
   <img align="center" alt="Lop-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lop-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lop-GIF" height="120" width="120" src="https://cdn.discordapp.com/attachments/852996930740682782/882416270954364998/Lop_Gif.gif">
+  \*<img align="right" alt="Lop-GIF" height="120" width="120" src="https://cdn.discordapp.com/attachments/852996930740682782/882416270954364998/Lop_Gif.gif">*/
 </div>
   <br>
   <br>
