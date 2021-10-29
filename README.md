@@ -7,8 +7,6 @@
 - ❣️ Todas as minhas redes sociais estão no meu Beacons, só [clicar aqui](https://beacons.ai/loponte/)
 
 >![Imagem pixel](https://i.pinimg.com/564x/1a/d2/61/1ad261698d2f70aafc9488b8b396bcb9.jpg)
-
-<br>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lop-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
