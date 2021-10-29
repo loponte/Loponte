@@ -20,8 +20,6 @@
   <img align="right" alt="Lop-GIF" height="120" width="120" src="https://cdn.discordapp.com/attachments/852996930740682782/882416270954364998/Lop_Gif.gif">
 </div>
   
-  ##
-  
 <div> 
   <a href="https://www.linkedin.com/in/loponte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/lucasloponte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
