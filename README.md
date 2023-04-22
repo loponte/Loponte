@@ -2,8 +2,7 @@
 
 - 🖥 Atualmente trabalho com Design Grafico.
 - 🎈 Sonho em me tornar um *desenvolvedor front-end*.
-- 🧥 Sou Dono da empresa *TheHappy Design*.
-- 🏳‍🌈 Pronomes e Sexualidade: *ele e ela | não binário*.
+- 🧥 Sou Dono da empresa *Loponte Design*.
 - ❣️ *Todas as minhas redes sociais estão no meu Beacons, só [clicar aqui](https://beacons.ai/loponte/)*
 
 >![Imagem pixel](https://i.pinimg.com/564x/1a/d2/61/1ad261698d2f70aafc9488b8b396bcb9.jpg)
