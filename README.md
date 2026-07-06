@@ -12,10 +12,6 @@
   <img align="center" alt="Lop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
- <div>
-  <a href="https://github.com/loponte">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loponte&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
  
   ![Snake animation](https://github.com/loponte/loponte/blob/output/github-contribution-grid-snake.svg)
