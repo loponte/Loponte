@@ -1,4 +1,9 @@
-## Olá!! Eu sou o Loponte 👋
+## Sou o Loponte :)
+
+- Videomaker, Fotógrafo, Motion Designer & Designer Gráfico.
+- Crio experiências visuais que hipnotizam.
+- Meu nome é Lucas.
+- *Todas as minhas redes sociais estão no meu site, só [clicar aqui]([https://loponte.com.br/portfolio/])*
 
 >![Imagem pixel](https://i.pinimg.com/564x/1a/d2/61/1ad261698d2f70aafc9488b8b396bcb9.jpg)
   
@@ -11,7 +16,14 @@
   <img align="center" alt="Lop-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
 
- 
+  <br>
+  <br>
+
+ <div>
+  <a href="https://github.com/loponte">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loponte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loponte&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
   ![Snake animation](https://github.com/loponte/loponte/blob/output/github-contribution-grid-snake.svg)
