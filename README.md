@@ -1,9 +1,5 @@
 ## Olá!! Eu sou o Loponte 👋
 
-- 🖥 Atualmente trabalho com Design Grafico, Programação e com Audiovisual.
-- 🧥 Sou Dono da empresa *TheHappy Design*.
-- ❣️ *Todas as minhas redes sociais estão no meu site, só [clicar aqui](https://loponte.com.br/portfolio/)*
-
 >![Imagem pixel](https://i.pinimg.com/564x/1a/d2/61/1ad261698d2f70aafc9488b8b396bcb9.jpg)
   
 <div style="display: inline_block"><br>
